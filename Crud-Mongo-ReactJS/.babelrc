@@ -1,0 +1,6 @@
+//env para traducir el .js normal y react para el .jsx de React
+{
+    "presets": [
+      "env", "react"
+    ]
+  }
